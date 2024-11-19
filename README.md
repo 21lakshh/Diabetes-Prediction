@@ -18,8 +18,11 @@ The dataset includes property attributes such as:
   
 #### **Approach**
 **Data analysis** : Using heatmap to check correaltion between multiple features, Using pie charts to check people diagnosed with diabetes distribution and pair plot  
+
 **Data Preprocessing** : Standardized numeric values using StandardScaler, data had no missing values to be handled  
+
 **Model Selection**: Tested SVC (Support Vector Classifier)   
+
 **Model Evaluation:**  
 - Accuracy on Training Data: 78.43%  
 - Accuracy on Testing Data: 77.92%  
