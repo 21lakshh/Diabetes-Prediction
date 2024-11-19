@@ -30,4 +30,8 @@ The dataset includes property attributes such as:
 ##### **Getting Started**
 Deployed using Streamlit as a web-application   
 Clone the repo and install dependencies.  
-Run the python file and try it yourself!
+Run the python file and try it yourself!  
+
+you need to run the following commands in the terminal  
+- **cd Diabetes**  
+- **streamlit run app.py**
